@@ -1,0 +1,1 @@
+{"version":3,"file":"ProductModel.d.ts","sourceRoot":"","sources":["../../../src/models/ProductModel.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,sBAAsB,CAAC;AAKjD,qBAAa,YAAY;WACR,WAAW,IAAI,OAAO,CAAC,SAAS,EAAE,CAAC;WAKnC,aAAa,CAAC,GAAG,EAAE,GAAG,GAAG,OAAO,CAAC,GAAG,CAAC;WAKrC,aAAa,CAAC,GAAG,EAAE,GAAG;;;WAKtB,WAAW,CAAC,GAAG,EAAE,GAAG;CAUpC"}
